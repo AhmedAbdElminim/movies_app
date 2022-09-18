@@ -3,7 +3,7 @@
   <tr>
      <td>Movie Screen</td>
      <td>Movies</td>
-     <td>Movie Details Screen</td>
+     <td>Movie/Tv Details Screen</td>
      
   </tr>
   <tr>
@@ -16,9 +16,9 @@
  
  <table>
   <tr>
-     <td>Movie Screen</td>
-     <td>Movies</td>
-     <td>Movie Details Screen</td>
+     <td>Tv Screen</td>
+     <td>Trending</td>
+     <td>Play Movie/Tv Screen</td>
      
   </tr>
   <tr>
